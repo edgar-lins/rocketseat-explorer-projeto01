@@ -4,6 +4,8 @@
 
 Projeto realizado no curso Explorer da rocketseat
 
+* Introdução HTML e CSS
+
 ![preview](./.github/preview.png)
 
 
